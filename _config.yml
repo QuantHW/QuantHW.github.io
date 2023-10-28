@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://quanthw.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: QuantHW # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: _harshwadhwa # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: wadhwaharsh15@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/_harshwadhwa # change to your twitter homepage
+    - https://github.com/QuantHW # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/harshwadhwa15/
 
 google_site_verification: # fill in to your verification string
 
