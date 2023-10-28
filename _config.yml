@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://quanthw.github.io"
 
 github:
-  username: QuantHW # change to your github username
+  username: github_username # change to your github username
 
 twitter:
-  username: _harshwadhwa # change to your twitter username
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: wadhwaharsh15@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/_harshwadhwa # change to your twitter homepage
-    - https://github.com/QuantHW # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/harshwadhwa15/
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# img_cdn: 
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "1693391945534.jpg"
+avatar:
 
 # boolean type, the global switch for TOC in posts.
 toc: true
