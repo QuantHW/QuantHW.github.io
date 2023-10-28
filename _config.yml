@@ -18,8 +18,7 @@ title: Harsh Wadhwa # the main title
 
 tagline: Quantum Researcher # it will display as the sub-title
 
-description: >- Working in the field of Quantum Machine Learning
- # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
  
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
