@@ -16,7 +16,7 @@ timezone: https://kevinnovak.github.io/Time-Zone-Picker
 
 title: Harsh Wadhwa # the main title
 
-tagline: Quantum Researcher# it will display as the sub-title
+tagline: Quantum Researcher # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
  Working on Quantum Transformer, a Generative Model in Quantum Machine Learning  @ FRIPL
