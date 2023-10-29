@@ -22,4 +22,3 @@ pandas, tkinter
 - **Quantum Researcher @ Fujitsu Research of India (_August 2023 - Present_)**
 - Teaching Assistant, IIT Delhi Certifcation In Quantum Computing & Machine Learning Course (_2022 - 2023_)
 
-## Projects
