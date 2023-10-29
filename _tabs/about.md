@@ -13,7 +13,7 @@ order: 4
 - Libraries: stim-simulator, PennyLane, numpy, matplotlib, scikit-learn,
 pandas, tkinter
 - Software: MATLAB, OptiSystem, TINA, MS Excel, MS Word, MS PowerPoint
-- Tools: Qiskit-Quantum Computation, LaTex, Gnuplot
+- Tools: Qiskit-Quantum Computation, LaTeX, gnuplot
 
 ## Education
 - M.Tech., Optoelectronics and Optical Communication, India Insititute of Technology, Delhi (_2021 - 2023_)								       		
