@@ -6,7 +6,7 @@ order: 4
 
 # Quantum Researcher
 
-#### Technical Skills: 
+## Technical Skills: 
 - Programming Languages: Python, C, C++ 
 - Libraries: stim-simulator, PennyLane, numpy, matplotlib, scikit-learn,
 pandas, tkinter
