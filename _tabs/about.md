@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Quantum Researcher
- - Studying various quantum machine learning agorithms for generative machine learning models and in perticular Quantum Transformers
+ - Studying various quantum machine learning algorithms for generative machine learning models and in perticular Quantum Transformers
  - Area of Interest: Quantum Algorithms, Quantum Error Correction Codes
    
 ## Technical Skills: 
