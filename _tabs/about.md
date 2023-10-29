@@ -4,5 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Currently working as a Quantum Researcher in Fujitsu Research of India Private Limited Bangalore 
- 
+# Quantum Researcher
+
+#### Technical Skills:
+
+## Education
+- M.Tech., Optoelectronics and Optical Communication | India Insititute of Technology Delhi (_2021 - 2023_)								       		
+- M.Sc., Physics	| The University of Texas at Dallas (_2017 - 2019_)	 			        		
+- B.Sc., Physics | Kirori Mal College, University of Delhi (_2014 - 2017_)
+
+## Work Experience
+**Quantum Researcher @ Fujitsu Research of India (_August 2023 - Present_)**
+
+## Projects
