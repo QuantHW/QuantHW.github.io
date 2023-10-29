@@ -5,7 +5,8 @@ order: 4
 ---
 
 # Quantum Researcher
-
+ - Studying various quantum machine learning agorithms for generative machine learning models and in perticular Quantum Transformers
+ - Area od Interest: Quantum Algorithms, Quantum Error Correction Codes
 ## Technical Skills: 
 - Programming Languages: Python, C, C++ 
 - Libraries: stim-simulator, PennyLane, numpy, matplotlib, scikit-learn,
