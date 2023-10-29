@@ -7,6 +7,7 @@ order: 4
 # Quantum Researcher
  - Studying various quantum machine learning agorithms for generative machine learning models and in perticular Quantum Transformers
  - Area of Interest: Quantum Algorithms, Quantum Error Correction Codes
+   
 ## Technical Skills: 
 - Programming Languages: Python, C, C++ 
 - Libraries: stim-simulator, PennyLane, numpy, matplotlib, scikit-learn,
@@ -22,4 +23,5 @@ pandas, tkinter
 ## Work Experience
 - **Researcher-I @ Fujitsu Research of India (_August 2023 - Present_)**
 - Teaching Assistant, IIT Delhi Certifcation In Quantum Computing & Machine Learning Course (_2022 - 2023_)
+
 
